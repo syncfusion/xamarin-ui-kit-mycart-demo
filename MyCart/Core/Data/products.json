@@ -1,0 +1,99 @@
+[
+  {
+    "id": "1",
+    "previewimage": "DivingWatch.png",
+    "name": "Diving Watch",
+    "summary": "This sleek diving watch is ISO-certified with a 180-meter depth rating and automatic movement. It comes in three colors.",
+    "description": "This sleek diving watch is ISO-certified with a 180-meter depth rating and automatic movement. It comes in three colors.",
+    "actualprice": "220",
+    "discountpercent": "15",
+    "overallrating": "5",
+    "category": "Watch",
+    "previewimages": [ "DivingWatch.png", "DivingWatch1.png", "DivingWatch2.png", "DivingWatch3.png", "DivingWatch4.png" ],
+    "reviews": [
+      {
+        "profileimage": "ProfileImage1.png",
+        "customername": "Serina Williams",
+        "comment": "Greatest purchase I have ever made in my life.",
+        "rating": "5",
+        "images": [ "DivingWatch1.png", "DivingWatch3.png", "DivingWatch2.png" ],
+        "revieweddate": "2019-12-29"
+      },
+      {
+        "profileimage": "ProfileImage2.png",
+        "customername": "Alise Valasquez",
+        "comment": "Absolutely love them! Can't stop wearing!",
+        "rating": "5",
+        "images": [ "DivingWatch2.png", "DivingWatch3.png", "DivingWatch4.png" ],
+        "revieweddate": "2019-12-29"
+      }
+    ],
+    "quantities": [ "1", "2", "3" ],
+    "totalquantity": 1,
+    "sizevariants": [ "XS", "S", "M", "L", "XL" ]
+  },
+  {
+    "id": "2",
+    "previewimage": "DressWatch.png",
+    "name": "Dress Watch",
+    "category": "Watch",
+    "summary": "One of the slimmest upscale dress watches on the market, this one boasts the refinement and finishing that make this brand famous.",
+    "description": "One of the slimmest upscale dress watches on the market, this one boasts the refinement and finishing that make this brand famous.",
+    "actualprice": "285",
+    "discountpercent": "30",
+    "overallrating": "4",
+    "previewimages": [ "DressWatch.png", "DressWatch1.png", "DressWatch2.png", "DressWatch3.png", "DressWatch4.png" ],
+    "reviews": [],
+    "quantities": [ "1", "2", "3" ],
+    "totalquantity": 1,
+    "sizevariants": [ "XS", "S", "M", "L", "XL" ]
+  },
+  {
+    "id": "3",
+    "previewimage": "MilitaryWatch.png",
+    "name": "Military Watch",
+    "category": "Watch",
+    "summary": "Made for durability, this solar-powered watch has both analog and digital dials, ISO-standard shock resistance, and is water-resistant to 150 meters.",
+    "description": "Made for durability, this solar-powered watch has both analog and digital dials, ISO-standard shock resistance, and is water-resistant to 150 meters.",
+    "actualprice": "220",
+    "discountpercent": "15",
+    "overallrating": "5",
+    "previewimages": [ "MilitaryWatch.png", "MilitaryWatch1.png", "MilitaryWatch2.png", "MilitaryWatch3.png", "MilitaryWatch2.png" ],
+    "reviews": [],
+    "quantities": [ "1", "2", "3" ],
+    "totalquantity": 1,
+    "sizevariants": [ "XS", "S", "M", "L", "XL" ]
+  },
+  {
+    "id": "4",
+    "previewimage": "Watch.png",
+    "name": "Metallic Watch",
+    "category": "Watch",
+    "summary": "Whether you choose gold, platinum, or rose-gold, this beauty complements your wardrobe from a casual summer day out to your New Years office party.",
+    "description": "Whether you choose gold, platinum, or rose-gold, this beauty complements your wardrobe from a casual summer day out to your New Years office party.",
+    "actualprice": "285",
+    "discountpercent": "30",
+    "overallrating": "4",
+    "previewimages": [ "Watch.png", "Watch1.png", "Watch2.png", "Watch3.png", "Watch4.png" ],
+    "reviews": [],
+    "quantities": [ "1", "2", "3" ],
+    "totalquantity": 1,
+    "sizevariants": [ "XS", "S", "M", "L", "XL" ]
+  },
+  {
+    "id": "5",
+    "previewimage": "WristWatch.png",
+    "name": "Wristwatch",
+    "category": "Watch",
+    "summary": "This trend-setting wristwatch will keep your look up to date for years to come. Choose the color that suites your personality and keep time in style.",
+    "description": "This trend-setting wristwatch will keep your look up to date for years to come. Choose the color that suites your personality and keep time in style.",
+    "actualprice": "220",
+    "discountpercent": "15",
+    "overallrating": "5",
+    "previewimages": [ "WristWatch.png", "WristWatch1.png", "WristWatch2.png", "WristWatch3.png", "WristWatch2.png" ],
+    "reviews": [],
+    "quantities": [ "1", "2", "3" ],
+    "totalquantity": 1,
+    "sizevariants": [ "XS", "S", "M", "L", "XL" ]
+  }
+]

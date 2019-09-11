@@ -1,0 +1,88 @@
+[
+  {
+    "icon": "https://cdn.syncfusion.com/essential-ui-kit-for-xamarin.forms/common/uikitimages/Electronics.png",
+    "categoryname": "Electronics",
+    "subcategories": [
+
+    ]
+  },
+  {
+    "icon": "https://cdn.syncfusion.com/essential-ui-kit-for-xamarin.forms/common/uikitimages/Fashion.png",
+    "categoryname": "Fashion",
+    "subcategories": [
+      {
+        "icon": "Shoes.png",
+        "categoryname": "Shoes"
+      },
+      {
+        "icon": "Glass.png",
+        "categoryname": "Glass"
+      },
+      {
+        "icon": "Hand_bag.png",
+        "categoryname": "Hand Bag"
+      },
+      {
+        "icon": "Traval_bag.png",
+        "categoryname": "Traval Bag"
+      },
+      {
+        "icon": "Wallet.png",
+        "categoryname": "Wallet"
+      },
+      {
+        "icon": "Watch_cat.png",
+        "categoryname": "Watch"
+      }
+    ]
+  },
+  {
+    "icon": "https://cdn.syncfusion.com/essential-ui-kit-for-xamarin.forms/common/uikitimages/HomeFurniture.png",
+    "categoryname": "Home and Furniture",
+    "subcategories": [
+     
+    ]
+  },
+  {
+    "icon": "https://cdn.syncfusion.com/essential-ui-kit-for-xamarin.forms/common/uikitimages/PersonalCare.png",
+    "categoryname": "Personal Care",
+    "subcategories": [
+  
+    ]
+  },
+  {
+    "icon": "https://cdn.syncfusion.com/essential-ui-kit-for-xamarin.forms/common/uikitimages/Books.png",
+    "categoryname": "Books",
+    "subcategories": [
+ 
+    ]
+  },
+  {
+    "icon": "https://cdn.syncfusion.com/essential-ui-kit-for-xamarin.forms/common/uikitimages/Clothes.png",
+    "categoryname": "Clothes",
+    "subcategories": [
+ 
+    ]
+  },
+  {
+    "icon": "https://cdn.syncfusion.com/essential-ui-kit-for-xamarin.forms/common/uikitimages/MobilePhones.png",
+    "categoryname": "Mobile Phones",
+    "subcategories": [
+
+    ]
+  },
+  {
+    "icon": "https://cdn.syncfusion.com/essential-ui-kit-for-xamarin.forms/common/uikitimages/Accessories.png",
+    "categoryname": "Accessories",
+    "subcategories": [
+
+    ]
+  },
+  {
+    "icon": "https://cdn.syncfusion.com/essential-ui-kit-for-xamarin.forms/common/uikitimages/Toys.png",
+    "categoryname": "Toys and Baby",
+    "subcategories": [
+
+    ]
+  }
+]
